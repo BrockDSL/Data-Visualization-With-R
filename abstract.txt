@@ -1,0 +1,7 @@
+Write the description of your workshop here.  This is what will be used on Eventbrite and Experience BU so make sure it is worded as though it is on an event posting.
+
+EXAMPLE FORMAT
+
+Description of what the workshop will be about and what will be covered in the session.
+
+A note about any pre-requisite knowledge reccomended for this workshop.
