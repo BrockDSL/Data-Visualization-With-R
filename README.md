@@ -1,42 +1,54 @@
-Add in the workshop image here 
-
-![Tool Logo](Image filename)
+![Workshop Splash Image](Data-Visualization-in-R.jpg)
 
 
-# Title of Workshop
-Description of workshop including what you will learn and any tools that will be used in the process.
+# Making Visualizations with R
+In this workshop you will learn the basics of using the ggplot2 package to create visualizations in R.  This workshop covers:
 
-Note recommending any prerequisite knowledge needed for the workshop.  If none is needed then say "No prior experience with WORKSHOP-TOPIC/TOOL is needed for this workshop."
+- The layers of a visualizationg used by ggplot2
+- The basic types of visualizations you can make in R
+- How to adjust aesthetic elements of your visualizations
+- And how to integrate the creation of visualizations into your R workflows.
 
-*Estimated length of workshop: ## hours*
+A basic understanding of the R programming language is recommended for this workshop.
+
+*Estimated length of workshop: 1.5 hours*
 
 ----
 
 ## Setup Instructions
-In preparation for this workshop, you will need...
+In preparation for this workshop, you will need to have a Posit account (previously was an R Studio Cloud account) and have a new R Studio project open on Posit Cloud.  Follow the steps below to get set up.
 
-Include:
- - All software that needs to be downloaded
- - Any accounts that will need to be made including links to the sign up pages for those accounts
- - All files that will need to be downloaded in order to participate in the workshop as well as instructions on exactly how to download them.  
+- (Skip this step if you already have an Posit account) Begin by going to [https://posit.cloud/](https://posit.cloud/) and signing up for an account by clicking on the "Sign Up" text at the top right of the screen, then click the grey "Sign Up" button and fill in the form (or use the convenient Google or GitHub options if you have one of those accounts)
+- Log in to Posit
+- You should arrive at your workspace.  From here click on the button that says, "New Project" and select "New R Studio Project"
+- Once your project has finished building, open the "Source" window by clicking on the double box symbol in the top right corner of the "Console" window
 
-For all of the above, keep in mind that some of our attendees could be using machines on campus and therefore might have limitations in regards to downloading tools and files.
+![Source Button Location](image1.png)
+
+- Rename your project by clicking on the name at the top.  Name it whatever you like (eg. "Making Function with R Workshop")
+
+![Title Change](image2.png)
+
+- Lastly, install and activate the "tidyverse" package.  This might take a couple minutes as it is a very large package. 
+
+- And thats it!  You are all set for the workshop
 
 ----
 
-## Helpful Materials
-Add in any helpful resources, code snippets, cheat sheets, or other relevant information here.
+## Workshop Tasks
+**Coming soon!**
 
 ----
 
 ## Follow Up Material
-Add in names of books, links to websites, or any other reccomendations for follow up materials that could represent the "Next Step" in an attendees learning after the workshop.  helpful links like the Programming Historians or W3Schools are good examples.
+If you are looking to continue enhancing your knowledge of R, check out our other R workshops or try out one of the options below!
+
+[YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)   
+  
+[W3Schools R Tutorial](https://www.w3schools.com/r/default.asp)
 
 ----
-  
-**End notes**
-This is where you mention the DSL, MDGL, or Research Lifecycle department and put in contact information.  An example of what this might look like is:
 
-**This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.  For additional inquiries, contact [DSL@Brocku.ca](mailto:DSL@Brocku.ca)**
+**This workshop is brought to you by the Brock University Digital Scholarship Lab.  For a listing of our upcoming workshops go to [Experience BU](https://experiencebu.brocku.ca/organization/dsl) if you are a Brock affiliate or [Eventbrite page](https://www.eventbrite.ca/o/brock-university-digital-scholarship-lab-21661627350) for external attendees.**
 
 
