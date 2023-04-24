@@ -1,7 +1,3 @@
-Write the description of your workshop here.  This is what will be used on Eventbrite and Experience BU so make sure it is worded as though it is on an event posting.
+In this workshop you will learn the basics of using the ggplot2 package to create visualizations in R. This workshop explains the layers of a visualization used by ggplot2, the basic types of visualizations you can make with ggplot2, how to adjust aesthetic elements of your visualizations, and how to integrate the creation of visualizations into your R workflows.
 
-EXAMPLE FORMAT
-
-Description of what the workshop will be about and what will be covered in the session.
-
-A note about any pre-requisite knowledge reccomended for this workshop.
+A basic understanding of the R programming language is recommended for this workshop.
