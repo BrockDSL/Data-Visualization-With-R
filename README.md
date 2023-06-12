@@ -45,6 +45,8 @@ In preparation for this workshop, you will need to have a Posit account (previou
 ## Follow Up Material
 If you are looking to continue enhancing your knowledge of R, check out our other R workshops or try out one of the options below!
 
+[R for Data Science](https://r4ds.had.co.nz/index.html)
+
 [YaRrr! The Pirate's Guide to R](https://bookdown.org/ndphillips/YaRrr/)   
   
 [W3Schools R Tutorial](https://www.w3schools.com/r/default.asp)
