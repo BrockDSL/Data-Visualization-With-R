@@ -38,7 +38,29 @@ In preparation for this workshop, you will need to have a Posit account (previou
 ----
 
 ## Workshop Tasks
-**Coming soon!**
+**Task Set #1**
+1. Look at the mpg dataset by running **mpg**.  Tidyverse (or at least ggplot2) must be installed and turned on.  (use **view(mpg)** if you want to see the whole dataset)
+2. Read the documentation for the dataset using **?mpg** or **help(mpg)**
+3. Make a point graph, mapping 2 columns of the mpg data as the x and y values.
+4. Try making a few different point graphs using different values and when you are done type “POINT MADE!” in the chat
+
+
+**Task Set #2**
+1. Adjust your visualization to change the shape, size, and colour of the entire visualization.  
+2. Pick one aesthetic element and use it in your mappings instead to show another column of data in your visualization.
+3. Try different combinations of elements used in your mappings and outside you mappings to see what you get and when you are done type “GOT IT!” in the chat.
+
+
+**Task Set #3**
+1. Create two more visualizations using geometries other than point.  Feel free to share your discoveries by pasting your code in the chat.
+2. Once you have finished trying out new geometries, type “DONE!” in the chat.
+
+
+**Task Set #4**
+1. Create a visualization with at least 2 geometry layers.
+2. Put the code for your visualization into a variable.
+3. Add a labels layer to the visualization.
+4. Save your visualization as a .jpg file and then type “SAVED!” in the chat.
 
 ----
 
