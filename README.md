@@ -4,7 +4,7 @@
 # Making Visualizations with R
 In this workshop you will learn the basics of using the ggplot2 package to create visualizations in R.  This workshop covers:
 
-- The layers of a visualization used by ggplot2
+- The layers of a visualization used by ggplot2 
 - The basic types of visualizations you can make in R
 - How to adjust aesthetic elements of your visualizations
 - And how to integrate the creation of visualizations into your R workflows.
