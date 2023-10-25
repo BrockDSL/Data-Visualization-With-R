@@ -52,6 +52,8 @@ In preparation for this workshop, you will need to have a Posit account (previou
 
 
 **Task Set #3**
+[Link to the PDF of the geometry cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/data-visualization.pdf)
+
 1. Create two more visualizations using geometries other than point.  Feel free to share your discoveries by pasting your code in the chat.
 2. Once you have finished trying out new geometries, type “DONE!” in the chat.
 
