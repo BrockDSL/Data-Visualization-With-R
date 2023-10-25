@@ -51,7 +51,8 @@ In preparation for this workshop, you will need to have a Posit account (previou
 3. Try different combinations of elements used in your mappings and outside you mappings to see what you get and when you are done type “GOT IT!” in the chat.
 
 
-**Task Set #3**
+**Task Set #3**  
+
 [Link to the PDF of the geometry cheat sheet](https://github.com/rstudio/cheatsheets/blob/main/data-visualization.pdf)
 
 1. Create two more visualizations using geometries other than point.  Feel free to share your discoveries by pasting your code in the chat.
